@@ -1,7 +1,6 @@
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
 
   <h3 align="center">Todo List</h3>
@@ -57,7 +56,7 @@ Aplicação onde é possível listar suas tarefas, podendo definir elas como con
 
 1 - Clone o repositório
 ```sh
-git clone https://github.com/DarkMetaK/ToDo.git
+git clone https://github.com/DarkMetaK/Todo-List.git
 ```
 
 2 - Instale as dependências
@@ -77,7 +76,7 @@ npm run dev
 
 Matheus Porto - [LinkedIn](https://www.linkedin.com/in/matheusport0/) - [Website](https://matporto.vercel.app/) - matporto03@gmail.com
 
-Link Repositório: [https://github.com/DarkMetaK/ToDo](https://github.com/DarkMetaK/ToDo)
+Link Repositório: https://github.com/DarkMetaK/Todo-List](https://github.com/DarkMetaK/Todo-List)
 
 <p align="right">(<a href="#readme-top">Retornar ao topo</a>)</p>
 
