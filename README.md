@@ -6,7 +6,7 @@
   <h3 align="center">Todo List</h3>
 
   <p align="center">
-    Desenvolvimento de uma todo list, utilizando React
+    Desenvolvimento de uma todo list, utilizando React(Listamento de tarefas)
   </p>
 </div>
 
