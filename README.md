@@ -17,9 +17,9 @@
   <summary>Sumário</summary>
   <ol>
     <li>
-      <a href="#sobre">Sobre</a>
+      <a href="#sobre">Sobre o projeto</a>
       <ul>
-        <li><a href="#tecnologias">Tecnologias</a></li>
+        <li><a href="#tecnologias">Tecnologias usadas</a></li>
       </ul>
     </li>
     <li>
